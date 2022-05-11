@@ -1,3 +1,1 @@
-This is the first connection to Github by me.
-
-
+This is the first connection to Github by me
